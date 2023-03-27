@@ -1,0 +1,5 @@
+2023-03-26 13:40:22,581, INFO, get_api_answer, 61, root, Начало запроса: url = https://practicum.yandex.ru/api/user_api/homework_statuses/,headers = {'Authorization': 'OAuth y0_AgAAAABl-BXuAAYckQAAAADfYUJq82vzJZ9ETiaCVgoo-QQ5q_4sDJE'},params = {'from_date': 1679827222}
+2023-03-26 13:40:45,253, INFO, send_message, 40, root, Начало отправки
+2023-03-26 13:40:50,652, INFO, send_message, 49, root, Сообщение отправлено  , Нет новых статусов работ.
+2023-03-26 14:17:16,897, INFO, main, 115, root, Бот начал работу
+2023-03-26 14:17:16,897, INFO, get_api_answer, 60, root, Начало запроса к API. Запрос: https://practicum.yandex.ru/api/user_api/homework_statuses/, {'Authorization': 'OAuth y0_AgAAAABl-BXuAAYckQAAAADfYUJq82vzJZ9ETiaCVgoo-QQ5q_4sDJE'}, {'from_date': 1679829436}.
